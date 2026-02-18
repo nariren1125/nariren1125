@@ -82,28 +82,43 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Tsumugi</h3>
-      <a href="https://tsumugi.app/" target="_blank" rel="noopener noreferrer">
-        <img src="YOUR_TSUMUGI_IMAGE_URL" alt="Tsumugi" width="420" />
-      </a>
-      <br/>
-      <a href="https://tsumugi.app/" target="_blank" rel="noopener noreferrer">▶︎ アプリを開く</a>
-    </td>
+<tr>
 
-    <td width="50%" align="center">
-      <h3>秋の欲張り月見メーカー</h3>
-      <a href="https://yokubari-tsukimi-2025.onrender.com" target="_blank">
-        <img src="https://yokubari-tsukimi-2025.onrender.com/ogp.png" alt="秋の欲張り月見メーカー" width="420" />
-      </a>
-      <br/>
-      <a href="https://yokubari-tsukimi-2025.onrender.com"_blank">▶︎ アプリを開く</a>
-    </td>
-  </tr>
+<td width="50%" align="center">
+
+<h3>Tsumugi</h3>
+
+<a href="https://tsumugi.app/" target="_blank">
+  <img src="https://yokubari-tsukimi-2025.onrender.com/ogp.png" width="420">
+</a>
+
+<br/>
+
+<a href="https://tsumugi.app/" target="_blank">▶︎ アプリを開く</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>秋の欲張り月見メーカー</h3>
+
+<a href="https://yokubari-tsukimi-2025.onrender.com" target="_blank">
+  <img src="https://yokubari-tsukimi-2025.onrender.com/ogp.png" width="420">
+</a>
+
+<br/>
+
+<a href="https://yokubari-tsukimi-2025.onrender.com" target="_blank">
+▶︎ アプリを開く
+</a>
+
+</td>
+
+</tr>
 </table>
 
 </div>
+
 
 
 ---
